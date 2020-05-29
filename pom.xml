@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.mx.spring.boot</groupId>
-    <artifactId>spring-boot-template</artifactId>
+    <artifactId>spring-flyway</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>spring-boot-template</name>
+    <name>spring-flyway</name>
     <url>http://maven.apache.org</url>
 
     <properties>
@@ -39,7 +39,7 @@
         </dependency>
     </dependencies>
     <build>
-        <finalName>spring-boot-template</finalName>
+        <finalName>spring-flyway</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
