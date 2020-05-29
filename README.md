@@ -1,2 +1,2 @@
-# spring-boot-template
-Personal spring-boot template project
+# Spring Boot Flyway
+Spring Boot Flyway project
